@@ -81,7 +81,6 @@ fetch -q -a -r -o - \
   https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt                         \
   https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt                          \
   https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt                     \
-  https://mirror1.malwaredomains.com/files/justdomains                                     \
   https://v.firebog.net/hosts/static/w3kbl.txt                                             \
   https://v.firebog.net/hosts/BillStearns.txt                                              \
   https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt \
